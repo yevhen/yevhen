@@ -1,6 +1,6 @@
 <table align="center">
   <tr>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/2560px-Flag_of_Ukraine.svg.png" width="200" height="120"></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Flag_of_Ukraine_%28with_coat_of_arms_2%29.svg/1280px-Flag_of_Ukraine_%28with_coat_of_arms_2%29.svg.png" width="300" height="180"></td>
   </tr>
   <tr>
     <td align="center"><b>⚠ My lovely country has been invaded by Russia and is currently at war ⚠</b></td>
