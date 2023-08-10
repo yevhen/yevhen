@@ -11,12 +11,13 @@
   <tr>
     <td align="center">Learn more about the <a href="https://uacrisis.org/en/russia-attacks-ukraine-live-update">conflict</a> and how you can help</td>
   </tr>
-  <tr>
-    <td align="center">Fuck Russia! <b>Glory to Ukraine! 🇺🇦</b></td>
-  </tr>
 </table>
 
-<p>Please consider helping Ukraine fight back by donating to our military and various humanitarian causes:<ul><li><a href="https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi">Official military donation page</a></li><li><a href="https://savelife.in.ua/en/donate">NPO "Come Back Alive" (non-lethal military equipment)</a></li><li><a href="https://novaukraine.org/donate">NPO "Nova Ukraine" (humanitarian relief)</a></li><li><a href="https://razomforukraine.org/donate">NPO "Razom for Ukraine" (humanitarian relief)</a></li></ul></p>
+<p>Please consider helping Ukraine! The most effective thing you can do is donate to one of the local non-government charities that supply our defenders with critical equipment — power stations, medical supplies, armored vests, light vehicles, reconnaissance drones, weapon attachments, etc. It's best to avoid donating to global funds, such as Red Cross or UN Crisis Relief, because they have a very limited presence in Ukraine and typically can't provide the most necessary support.
+
+<p>
+<ul><li><a href="https://dzygaspaw.com/support?source=yevhen" target="_blank"><span class="font-semibold">Dzyga's Paw</span> Foundation</a> <!-- -->(defensive &amp; humanitarian aid)</li><li><a href="https://savelife.in.ua/en/donate-en/?source=yevhen" target="_blank"><span class="font-semibold">Come Back Alive</span> Foundation</a> <!-- -->(defensive aid)</li><li><a href="https://prytulafoundation.org/en/home/support_page?source=yevhen" target="_blank"><span class="font-semibold">Serhiy Prytula</span> Foundation</a> <!-- -->(defensive &amp; humanitarian aid)</li><li><a href="https://koloua.com/en/donate?source=yevhen" target="_blank"><span class="font-semibold">Kolo</span> Foundation</a> <!-- -->(defensive aid)</li><li><a href="https://hospitallers.life/needs-hospitallers?source=yevhen" target="_blank"><span class="font-semibold">Hospitallers Battalion</span></a> <!-- -->(medical aid)</li><li><a href="https://voices.org.ua/en/donat?source=yevhen" target="_blank"><span class="font-semibold">Voices of Children</span> Foundation</a> <!-- -->(humanitarian aid)</li><li><a href="https://u24.gov.ua" target="_blank">Government donation portal</a> (humanitarian aid)</li></ul>
+</p>
 
 <p>All personal donations will be used to support the country. See below.</p>
 
