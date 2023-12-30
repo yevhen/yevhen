@@ -17,11 +17,10 @@
 
 <p>
 <ul>
-  <li><a href="https://dzygaspaw.com/support?source=yevhen" target="_blank"><span class="font-semibold">Dzyga's Paw</span> Foundation</a> <!-- -->(defensive &amp; humanitarian aid)</li>
-  <li><a href="https://savelife.in.ua/en/donate-en/?source=yevhen" target="_blank"><span class="font-semibold">Come Back Alive</span> Foundation</a> <!-- -->(defensive aid)</li>
-  <li><a href="https://koloua.com/en/donate?source=yevhen" target="_blank"><span class="font-semibold">Kolo</span> Foundation</a> <!-- -->(defensive aid)</li>
-  <li><a href="https://hospitallers.life/needs-hospitallers?source=yevhen" target="_blank"><span class="font-semibold">Hospitallers Battalion</span></a> <!-- -->(medical aid)</li>
-  <li><a href="https://voices.org.ua/en/donat?source=yevhen" target="_blank"><span class="font-semibold">Voices of Children</span> Foundation</a> <!-- -->(humanitarian aid)</li>
+  <li><a href="https://savelife.in.ua/en/donate-en/?source=yevhen.bobrov" target="_blank"><span class="font-semibold">Come Back Alive</span> Foundation</a> <!-- -->(defensive aid)</li>
+  <li><a href="https://koloua.com/en/donate?source=yevhen.bobrov" target="_blank"><span class="font-semibold">Kolo</span> Foundation</a> <!-- -->(defensive aid)</li>
+  <li><a href="https://hospitallers.life/needs-hospitallers?source=yevhen.bobrov" target="_blank"><span class="font-semibold">Hospitallers Battalion</span></a> <!-- -->(medical aid)</li>
+  <li><a href="https://voices.org.ua/en/donat?source=yevhen.bobrov" target="_blank"><span class="font-semibold">Voices of Children</span> Foundation</a> <!-- -->(humanitarian aid)</li>
   <li><a href="https://u24.gov.ua" target="_blank">Government donation portal</a> (humanitarian aid)</li></ul>
 </p>
 
